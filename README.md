@@ -3,9 +3,9 @@
 ## IOS Reverse
 ### 流程
 * 砸壳 **frida-ios-dump**
-* 静态分析 IDA
-* Hook Frida
-* 动态分析 LLDB
+* 静态分析 **IDA**
+* Hook **Frida**
+* 动态分析 **LLDB**
 ### Frida
 #### 常用的API
 ### LLDB
