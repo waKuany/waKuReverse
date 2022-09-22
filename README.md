@@ -8,6 +8,10 @@
 * 动态分析 **LLDB**
 ### Frida
 #### 常用的API
+* 构建原生函数
+```
+var f = new NativeFunction(ptr(xxx), 'void', ['int'])
+```
 ### LLDB
 #### 常用的API
 ### IDA
